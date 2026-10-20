@@ -32,3 +32,7 @@ streamlit run app.py
 - `vehicles_us.csv`: conjunto de dados.
 - `notebooks/EDA.ipynb`: análise exploratória dos dados.
 - `requirements.txt`: bibliotecas necessárias e suas versões.
+
+## Aplicativo Online
+
+https://projeto-final-sprint-5-v8lh.onrender.com/
